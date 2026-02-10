@@ -55,8 +55,6 @@ Each script:
 
 ## Purpose in the Paper
 
-These scripts provide:
-
--   **Empirical validation** of Algorithm 1 and Algorithm 2
+These scripts provide **Empirical validation** of Algorithm 1 and Algorithm 2.
 
 
