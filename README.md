@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains **experimental SageMath implementations** used
-to validate the algorithms presented in our paper, titled "Improved Cryptanalysis of the Permuted Kernel Problem with Applications to PERK v2.2.0, SUSHSYFISH, and PKP-DSS".
+to validate the algorithms presented in our paper, titled **"Improved Cryptanalysis of the Permuted Kernel Problem with Applications to PERK v2.2.0, SUSHSYFISH, and PKP-DSS"**.
 
 ------------------------------------------------------------------------
 
